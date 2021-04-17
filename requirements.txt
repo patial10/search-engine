@@ -3,3 +3,11 @@ gensim==4.0.1
 pandas>=1.2.2
 Flask==1.1.2
 gunicorn
+werkzeug
+MarkupSafe
+Jinja2
+itsdangerous
+python-dateutil
+pytz
+smart-open
+scipy
