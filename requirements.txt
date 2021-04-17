@@ -2,3 +2,4 @@ numpy>=1.19.2
 gensim==4.0.1
 pandas>=1.2.2
 flask==1.1.2
+gunicorn
